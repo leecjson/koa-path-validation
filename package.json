@@ -1,0 +1,28 @@
+{
+  "name": "koa-path-validation",
+  "version": "1.0.0",
+  "description": "Validate koa's ctx.path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecjson/koa-path-validation.git"
+  },
+  "keywords": [
+    "koa",
+    "path",
+    "valid",
+    "validation",
+    "inject",
+    "injection",
+    "malicious"
+  ],
+  "author": "leecjson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leecjson/koa-path-validation/issues"
+  },
+  "homepage": "https://github.com/leecjson/koa-path-validation#readme"
+}
